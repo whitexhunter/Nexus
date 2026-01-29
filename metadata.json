@@ -1,0 +1,7 @@
+{
+  "name": "Nexus - Private & Secure Messaging",
+  "description": "A high-security, real-time one-to-one messaging platform with a sleek purplish-blue glassmorphism design, featuring unique ID registration, friend request systems, and encrypted session management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
